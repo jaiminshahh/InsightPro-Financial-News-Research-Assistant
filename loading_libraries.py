@@ -1,0 +1,1 @@
+pip install -r C:\Users\jaimi\Downloads\langchain-main\langchain-main\2_news_research_tool_project\requirements.txt
